@@ -18,7 +18,7 @@
   </a>-->
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=aaa0ff&text_color=f2f3f5" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtbynyx&layout=compact&theme=transparent&hide_border=true&title_color=aaa0ff&text_color=f2f3f5" width="400">
 </p>
 ---
 
