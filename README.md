@@ -1,4 +1,3 @@
-# NYX
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090c,50:17132f,100:8b7cff&height=180&section=header&text=NYX&fontSize=64&fontColor=f2f3f5&fontAlignY=35&desc=developer%20%2F%20builder&descAlignY=58&descSize=16&descColor=aaa0ff" />
