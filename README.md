@@ -17,7 +17,16 @@
     <img src="https://img.shields.io/badge/Website-08090c?style=flat-square&logo=google-chrome&logoColor=aaa0ff" />
   </a>-->
 </p>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=aaa0ff&text_color=f2f3f5&icon_color=8b7cff"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=aaa0ff&text_color=f2f3f5"
+    height="170"
+  />
+</p>
 ---
 
 ### `> whoami`
