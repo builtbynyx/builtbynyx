@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nyxsys">
+  <a href="https://github.com/builtbynyx">
     <img src="https://img.shields.io/badge/GitHub-08090c?style=flat-square&logo=github&logoColor=f2f3f5" />
   </a>
   <a href="https://nyx.dev">
