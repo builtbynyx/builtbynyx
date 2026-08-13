@@ -21,7 +21,7 @@
   <img src="https://github-stats-extended.vercel.app/api?username=builtbynyx&theme=tokyonight" width="400">
 </p>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=builtbynyx&layout=compact&theme=tokyonight" width="400">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=builtbynyx&theme=tokyonight" width="400">
 </p>
 ---
 
